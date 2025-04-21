@@ -1,2 +1,2 @@
 # OnlyMemes
-A meme sharing snd fetching a new meme whenever user presses "NEXT" button.
+A meme sharing and fetching a new meme whenever user presses "NEXT" button.
